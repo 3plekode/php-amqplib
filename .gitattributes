@@ -12,7 +12,7 @@
 /NOTE.DEVELOPMENT.NOV.2011.md export-ignore
 /NOTE.THENETCIRCLE.md export-ignore
 /benchmark export-ignore
-/demo export-ignore
+# /demo export-ignore
 /doc export-ignore
 /docker export-ignore
 /docs export-ignore
